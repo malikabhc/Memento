@@ -1,0 +1,12 @@
+caption{
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: large;
+}
+table, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+thead{
+  background-color: #81F79F;
+}
